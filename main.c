@@ -1,4 +1,4 @@
 func main() {
-
-	stdout::printf("%s", "echt goede code")
+	// dit was bagger
+	stdout::printf("%s", "echt bagger code")
 }
